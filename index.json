@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Loose Fitted Shirt",
+      "price": 9.50,
+      "image": "https://zandokh.com/image/catalog/products/2025-09/22225041425/ZD__1230.jpg",
+      "category": "Tops",
+      "gender": "Women",
+      "description": "A clean and comfortable loose fitted shirt designed for everyday wear."
+    },
+    {
+      "id": 2,
+      "name": "Oversized Basic T-Shirt",
+      "price": 8.99,
+      "image": "https://zandokh.com/image/catalog/products/2025-08/21225061291/ZD__2084.jpg",
+      "category": "Tops",
+      "gender": "Men",
+      "description": "A relaxed oversized t-shirt made for a simple and comfortable everyday look."
+    },
+    {
+      "id": 3,
+      "name": "Cropped Casual Top",
+      "price": 7.50,
+      "image": "https://zandokh.com/image/cache/catalog/products/2026-03/12225112435/STU_7728-cr-450x672.jpg",
+      "category": "Tops",
+      "gender": "Women",
+      "description": "A stylish cropped top with a modern casual silhouette."
+    },
+    {
+      "id": 4,
+      "name": "Loose Cargo Shorts",
+      "price": 10.80,
+      "image": "https://zandokh.com/image/cache/catalog/products/2026-02/21225091549/PTAK9434-cr-450x672.jpg",
+      "category": "Bottoms",
+      "gender": "Men",
+      "description": "Relaxed cargo shorts with multiple pockets and a comfortable fit."
+    },
+    {
+      "id": 5,
+      "name": "Regular Denim Shorts",
+      "price": 11.60,
+      "image": "https://zandokh.com/image/catalog/products/2025-08/12225041295/ZANDO070820253993.jpg",
+      "category": "Bottoms",
+      "gender": "Women",
+      "description": "Classic denim shorts with a relaxed fit for casual summer outfits."
+    },
+    {
+      "id": 6,
+      "name": "Wide Leg Pants",
+      "price": 15.90,
+      "image": "https://zandokh.com/image/catalog/products/2026-05/3222507034/STU_8936.jpg",
+      "category": "Bottoms",
+      "gender": "Women",
+      "description": "Modern wide leg pants designed with a relaxed and comfortable silhouette."
+    },
+    {
+      "id": 7,
+      "name": "Classic Straight Jeans",
+      "price": 18.50,
+      "image": "https://zand.sgp1.cdn.digitaloceanspaces.com/cache/catalog/products/2026-06/21226021788/STU_0958-cr-450x672.jpg",
+      "category": "Bottoms",
+      "gender": "Men",
+      "description": "Classic straight-fit jeans suitable for everyday casual outfits."
+    },
+    {
+      "id": 8,
+      "name": "Casual Denim Jacket",
+      "price": 22.90,
+      "image": "https://zand.sgp1.cdn.digitaloceanspaces.com/cache/catalog/products/2025-12/21225091550/1-cr-450x672.jpg",
+      "category": "Outerwear",
+      "gender": "Men",
+      "description": "A timeless denim jacket that works well with casual everyday outfits."
+    },
+    {
+      "id": 9,
+      "name": "Lightweight Bomber Jacket",
+      "price": 24.50,
+      "image": "https://zandokh.com/image/catalog/products/2025-12/12225102309/VSAL1610.jpg",
+      "category": "Outerwear",
+      "gender": "Women",
+      "description": "A lightweight bomber jacket with a clean modern design."
+    },
+    {
+      "id": 10,
+      "name": "Oversized Hoodie",
+      "price": 16.99,
+      "image": "https://zand.sgp1.cdn.digitaloceanspaces.com/cache/catalog/products/2026-08/10112607273/DEVOTUS%20(4)-cr-450x672.jpg",
+      "category": "Outerwear",
+      "gender": "Men",
+      "description": "A soft oversized hoodie designed for comfort and relaxed streetwear style."
+    },
+    {
+      "id": 11,
+      "name": "Canvas Shoulder Bag",
+      "price": 9.50,
+      "image": "https://zandokh.com/image/cache/catalog/products/2026-06/4122603581/10S26BAGU009_Beige%20(1)-cr-450x672.jpg",
+      "category": "Accessories",
+      "gender": "Women",
+      "description": "A simple canvas shoulder bag for carrying everyday essentials."
+    },
+    {
+      "id": 12,
+      "name": "Classic Baseball Cap",
+      "price": 6.99,
+      "image": "https://zandokh.com/image/cache/catalog/products/2026-03/4122512450/1-cr-450x672.jpg",
+      "category": "Accessories",
+      "gender": "Men",
+      "description": "A classic baseball cap with a simple design for everyday styling."
+    },
+    {
+      "id": 13,
+      "name": "Mini Crossbody Bag",
+      "price": 12.90,
+      "image": "https://cdn.dajanarodriguez.com/uploads/public/64d/cd7/bd1/thumb_52102_1000_1000_0_0_auto.png",
+      "category": "Accessories",
+      "gender": "Women",
+      "description": "A compact crossbody bag designed for simple everyday outfits."
+    },
+    {
+      "id": 14,
+      "name": "Relaxed Polo Shirt",
+      "price": 12.50,
+      "image": "https://zand.sgp1.cdn.digitaloceanspaces.com/cache/catalog/products/2026-07-II/11226041840/PTAK0072-cr-450x672.jpg",
+      "category": "Tops",
+      "gender": "Men",
+      "description": "A relaxed polo shirt with a clean design for casual and smart-casual looks."
+    },
+    {
+      "id": 15,
+      "name": "Pleated Midi Skirt",
+      "price": 14.99,
+      "image": "https://zandokh.com/image/catalog/products/2024-07/2222406702/Midi-Skirt%20(2).jpg",
+      "category": "Bottoms",
+      "gender": "Women",
+      "description": "A stylish pleated midi skirt with a comfortable fit and elegant look."
+    }
+  ]
+}
